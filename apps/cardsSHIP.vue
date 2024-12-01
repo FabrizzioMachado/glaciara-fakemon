@@ -188,7 +188,7 @@
         left: 0;
 
         h1 {
-            font-size: clamp(3em, 5em + 1vh, 7.5em);
+            font-size: clamp(3em, 3.25em + 2.5vw, 7.5em);
             white-space: nowrap;
             position: relative;
             z-index: 1;
